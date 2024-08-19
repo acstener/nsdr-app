@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/HankenGrotesk-Italic-VariableFont_wght.ttf",
+      "sha1": "c8043c2db9557cfc736fdaa0189ee5da5f4e7443"
+    },
+    {
+      "path": "assets/fonts/HankenGrotesk-VariableFont_wght.ttf",
+      "sha1": "5fc7565aa0e1166f46c33c2ae3b710680eb4b81b"
+    }
+  ]
+}
